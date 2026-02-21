@@ -7,11 +7,14 @@ Mathematics graduate with strong analytical and quantitative skills, interested 
 
 ## Key Skills
 
+* Excel
+* SQL (basic)
 * Financial Metrics (Daily Return, Cumulative Return, Volatility, Sharpe Ratio)
 * Portfolio Performance Analysis
-* Excel-Based Financial Modeling
 * Wolfram Mathematica
 * Mathematical Modeling & Analytical Problem Solving
+* LaTeX
+* C++ (basic)
 
 ## Featured Projects
 

@@ -1,16 +1,22 @@
-## Hi there 👋
+## VAIBHAV PAWAR
+BSc (Hons) Mathematics Graduate
 
-<!--
-**vaibhav356pro/vaibhav356pro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+Mathematics graduate with strong analytical and quantitative skills, interested in Finance and Data Analytics. Focused on portfolio performance evaluation, risk measurement, and computational modeling.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Key Skills
+
+* Financial Metrics (Daily Return, Cumulative Return, Volatility, Sharpe Ratio)
+* Portfolio Performance Analysis
+* Excel-Based Financial Modeling
+* Wolfram Mathematica
+* Mathematical Modeling & Analytical Problem Solving
+
+## Featured Projects
+
+### Portfolio Performance and Risk Analysis
+Analyzed portfolio returns and calculated risk-adjusted performance metrics including volatility and Sharpe ratio to evaluate investment performance.
+
+### Wolfram Mathematica Project
+Applied computational mathematics and visualization techniques to model and analyze mathematical problems.

@@ -1,5 +1,3 @@
-## VAIBHAV PAWAR
-
 ## About Me
 
 B.Sc. (Hons.) Mathematics graduate (CGPA 8.32) from the University of Delhi with strong quantitative and analytical skills in statistics, probability, linear algebra, and mathematical finance. Passionate about data-driven insights and equity valuation. Seeking entry-level opportunities as a Data Analyst or in Equity Research to apply academic foundation and contribute to business decisions and investment analysis.

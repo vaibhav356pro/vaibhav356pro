@@ -1,5 +1,4 @@
 ## VAIBHAV PAWAR
-BSc (Hons) Mathematics Graduate
 
 ## About Me
 

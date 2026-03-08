@@ -3,18 +3,18 @@ BSc (Hons) Mathematics Graduate
 
 ## About Me
 
-Mathematics graduate with strong analytical and quantitative skills, interested in Finance and Data Analytics. Focused on portfolio performance evaluation, risk measurement, and computational modeling.
+B.Sc. (Hons.) Mathematics graduate (CGPA 8.32) from the University of Delhi with strong quantitative and analytical skills in statistics, probability, linear algebra, and mathematical finance. Passionate about data-driven insights and equity valuation. Seeking entry-level opportunities as a Data Analyst or in Equity Research to apply academic foundation and contribute to business decisions and investment analysis.
 
 ## Key Skills
 
 * Excel
-* SQL (basic)
-* Financial Metrics (Daily Return, Cumulative Return, Volatility, Sharpe Ratio)
+* Statistics
+* Data Interpretation
+* Problem-Solving
+* Logical Reasoning
+* Wolfram (Mathematica)
+* Financial Metrics (Daily Return, Cumulative Return, Volatility, Sharpe Ratio etc)
 * Portfolio Performance Analysis
-* Wolfram Mathematica
-* Mathematical Modeling & Analytical Problem Solving
-* LaTeX
-* C++ (basic)
 
 ## Featured Projects
 

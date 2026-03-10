@@ -15,7 +15,7 @@ B.Sc. (Hons.) Mathematics graduate (CGPA 8.32) from the University of Delhi with
 
 ## Featured Projects
 
-### Portfolio Performance and Risk Analysis
+### Portfolio Performance and Risk Analysis Dashboard
 Analyzed portfolio returns and calculated risk-adjusted performance metrics including volatility and Sharpe ratio to evaluate investment performance.
 
 ### Wolfram Mathematica Project

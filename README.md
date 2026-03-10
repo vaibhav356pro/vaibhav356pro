@@ -18,5 +18,5 @@ B.Sc. (Hons.) Mathematics graduate (CGPA 8.32) from the University of Delhi with
 ### Portfolio Performance and Risk Analysis Dashboard
 Analyzed portfolio returns and calculated risk-adjusted performance metrics including volatility and Sharpe ratio to evaluate investment performance.
 
-### Wolfram Mathematica Project
+### Mathematical Modelling and Visualization Using Wolfram Mathematica
 Applied computational mathematics and visualization techniques to model and analyze mathematical problems.

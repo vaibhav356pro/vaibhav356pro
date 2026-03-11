@@ -4,14 +4,13 @@ B.Sc. (Hons.) Mathematics graduate (CGPA 8.32) from the University of Delhi with
 
 ## Key Skills
 
-* Excel
-* Statistics
-* Data Interpretation
-* Problem-Solving
-* Logical Reasoning
-* Wolfram (Mathematica)
-* Financial Metrics (Daily Return, Cumulative Return, Volatility, Sharpe Ratio etc)
-* Portfolio Performance Analysis
+* Microsoft Excel
+* Statistics & Probability Theory
+* Data Visualization
+* Mathematical Modelling & Numerical Analysis
+* Linear Algebra & Linear Programming
+* Problem Solving & Logical Reasoning
+* Wolfram Mathematica
 
 ## Featured Projects
 

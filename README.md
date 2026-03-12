@@ -15,7 +15,10 @@ B.Sc. (Hons.) Mathematics graduate (CGPA 8.32) from the University of Delhi with
 ## Featured Projects
 
 ### Portfolio Performance and Risk Analysis Dashboard
-Analyzed portfolio returns and calculated risk-adjusted performance metrics including volatility and Sharpe ratio to evaluate investment performance.
+* Built interactive Excel dashboard tracking portfolio value, daily returns, volatility, and risk-adjusted performance (Sharpe Ratio 0.47). 
+* Computed Cumulative Return (13.82%), CAGR (12.40%), and Annualized Volatility (39.23%) using financial formulas and √252 convention. 
+* Implemented advanced Excel features including statistical functions (AVERAGE, STDEV.S), dynamic cell referencing, time-series line charts, histogram for daily return distribution, and pie chart for capital allocation (Cash, Stock, Options, Short positions).
 
 ### Mathematical Modelling and Visualization Using Wolfram Mathematica
-Applied computational mathematics and visualization techniques to model and analyze mathematical problems.
+* Built and visualized 3D surfaces of revolution, solved Heat/Wave PDEs with time-evolution plots, and modeled exponential growth/decay processes using parametric equations, Fourier methods, and differential equation solvers. 
+* Showcased computational mathematics, analytical modeling, and advanced visualization skills applicable to data analysis and quantitative modelling.

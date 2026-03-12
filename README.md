@@ -20,5 +20,5 @@ B.Sc. (Hons.) Mathematics graduate (CGPA 8.32) from the University of Delhi with
 * Implemented advanced Excel features including statistical functions (AVERAGE, STDEV.S), dynamic cell referencing, time-series line charts, histogram for daily return distribution, and pie chart for capital allocation (Cash, Stock, Options, Short positions).
 
 ### Mathematical Modelling and Visualization Using Wolfram Mathematica
-* Built and visualized 3D surfaces of revolution, solved Heat/Wave PDEs with time-evolution plots, and modeled exponential growth/decay processes using parametric equations, Fourier methods, and differential equation solvers. 
-* Showcased computational mathematics, analytical modeling, and advanced visualization skills applicable to data analysis and quantitative modelling.
+* Built and visualized 3D surfaces of revolution, solved Heat/Wave PDEs with time-evolution plots, and modelled exponential growth/decay processes using parametric equations, Fourier methods, and differential equation solvers. 
+* Showcased computational mathematics, analytical modelling, and advanced visualization skills applicable to data analysis and quantitative modelling.

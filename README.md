@@ -1,6 +1,6 @@
 ## About Me
 
-B.Sc. (Hons.) Mathematics graduate
+Recent B.Sc. (Hons) Mathematics graduate from Delhi University and NISM-Certified Research Analyst. Equipped with deep academic training in linear algebra, probability frameworks, and statistical modeling. Proficient in Python data structures, advanced Excel analytics, and quantitative financial research. Seeking a high-intensity, entry-level Analyst role to process large-scale quantitative data.
 
 ## Key Skills
 

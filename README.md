@@ -1,4 +1,4 @@
-## About Me
+## Summary
 
 Recent B.Sc. (Hons) Mathematics graduate from Delhi University and NISM-Certified Research Analyst. Equipped with deep academic training in linear algebra, probability frameworks, and statistical modeling. Proficient in Python data structures, advanced Excel analytics, and quantitative financial research. Seeking a high-intensity, entry-level Analyst role to process large-scale quantitative data.
 
@@ -6,7 +6,9 @@ Recent B.Sc. (Hons) Mathematics graduate from Delhi University and NISM-Certifie
 
 ### B.Sc. (Hons.) Mathematics                                                                                   
 Keshav Mahavidyalaya, University of Delhi
+
 CGPA: 8.324 / 10.0 | First Division | 2020-2023
+
 Relevant Coursework: Probability and Statistics, Linear Algebra, Mathematical Finance, Real Analysis, Calculus, Differential Equations, and Numerical Analysis.
 
 ### Class XII (CBSE)                                                                                                       

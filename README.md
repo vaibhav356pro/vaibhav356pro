@@ -5,7 +5,7 @@ Recent B.Sc. (Hons) Mathematics graduate from Delhi University and NISM-Certifie
 ## Education
 
 ### B.Sc. (Hons.) Mathematics                                                                                   
-Keshav Mahavidyalaya, University of Delhi
+Keshav Mahavidyalaya, University of Delhi  
 CGPA: 8.324 / 10.0 | First Division | 2020-2023
 
 Relevant Coursework: Probability and Statistics, Linear Algebra, Mathematical Finance, Real Analysis, Calculus, Differential Equations, and Numerical Analysis.
@@ -22,7 +22,7 @@ Aggregate: 91.6% (Mathematics: 95/100) | 2020
 
 ## Certifications
 
-NISM Series XV: Research Analyst Certification – National Institute of Securities Markets (SEBI) |  Passed: June 2026
+* NISM Series XV: Research Analyst Certification – National Institute of Securities Markets (SEBI) |  Passed: June 2026
 
 ## Featured Projects
 

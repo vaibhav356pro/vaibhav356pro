@@ -2,15 +2,15 @@
 
 Recent B.Sc. (Hons) Mathematics graduate from Delhi University and NISM-Certified Research Analyst. Equipped with deep academic training in linear algebra, probability frameworks, and statistical modeling. Proficient in Python data structures, advanced Excel analytics, and quantitative financial research. Seeking a high-intensity, entry-level Analyst role to process large-scale quantitative data.
 
-## Key Skills
+## Skills
 
-* Microsoft Excel
-* Statistics & Probability Theory
-* Data Visualization
-* Mathematical Modelling & Numerical Analysis
-* Linear Algebra & Linear Programming
-* Problem Solving & Logical Reasoning
-* Wolfram Mathematica
+* Programming and Tools: Excel (Advanced), Python (Pandas, NumPy, Matplotlib), and SQL.
+
+* Core Competencies: Analytical Problem Solving, Mathematical Logic, Quantitative Research, Technical Writing.
+
+## Certifications
+
+NISM Series XV: Research Analyst Certification – National Institute of Securities Markets (SEBI) |  Passed: June 2026
 
 ## Featured Projects
 

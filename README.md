@@ -23,7 +23,7 @@ Aggregate: 91.6% (Mathematics: 95/100) | 2020
 
 * NISM Series XV: Research Analyst Certification – National Institute of Securities Markets (SEBI) |  Passed: June 2026
 
-## Featured Projects
+## Projects
 
 ### Portfolio Performance and Risk Analysis Dashboard
 * Built interactive Excel dashboard tracking portfolio value, daily returns, volatility, and risk-adjusted performance (Sharpe Ratio 0.47). 

@@ -6,12 +6,11 @@ Recent B.Sc. (Hons) Mathematics graduate from Delhi University and NISM-Certifie
 
 ### B.Sc. (Hons.) Mathematics                                                                                   
 Keshav Mahavidyalaya, University of Delhi  
-CGPA: 8.324 / 10.0 | First Division | 2020-2023
-
+CGPA: 8.324 / 10.0 | First Division | 2020-2023  
 Relevant Coursework: Probability and Statistics, Linear Algebra, Mathematical Finance, Real Analysis, Calculus, Differential Equations, and Numerical Analysis.
 
 ### Class XII (CBSE)                                                                                                       
-DL DAV Model School, Pitampura, Delhi
+DL DAV Model School, Pitampura, Delhi  
 Aggregate: 91.6% (Mathematics: 95/100) | 2020
 
 ## Skills

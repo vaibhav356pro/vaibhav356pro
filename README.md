@@ -1,6 +1,14 @@
-## Summary
+## About
 
-Recent B.Sc. (Hons) Mathematics graduate from Delhi University and NISM-Certified Research Analyst. Equipped with deep academic training in linear algebra, probability frameworks, and statistical modeling. Proficient in Python data structures, advanced Excel analytics, and quantitative financial research. Seeking a high-intensity, entry-level Analyst role to process large-scale quantitative data.
+B.Sc. (Hons) Mathematics Graduate from the University of Delhi and NISM Series XV Certified Research Analyst (SEBI Framework), specializing in quantitative financial analysis, market microstructures, and financial modeling.
+I combine a rigorous mathematical foundation—grounded in linear algebra, multivariable calculus, probability, differential equations and mathematical finance—with a deep practical interest in financial markets. My primary analytical focus spans yield curve dynamics, central bank interest rate policies, and cross-asset research across fixed income, FX, and equity markets.
+Technical Stack & Core Competencies:
+• Quantitative & Data Analytics: Python, R, Excel
+• Financial Modeling & Tools: Financial Valuation, Economic Data Processing
+
+Current Focus:
+Actively seeking entry-level analyst opportunities, long-term off-cycle internships, or research desk roles in Economic Research, FICC/Markets, Equity Analysis, or Quantitative Analytics where I can leverage my knowledge to support trade analysis, asset allocation, and market insights.
+✉️ Contact: vaibhavstar356@gmail.com | Open to opportunities across Delhi NCR, Mumbai, or Remote.
 
 ## Education
 
@@ -13,16 +21,12 @@ Relevant Coursework: Probability and Statistics, Linear Algebra, Mathematical Fi
 DL DAV Model School, Pitampura, Delhi  
 Aggregate: 91.6% (Mathematics: 95/100) | 2020
 
-## Skills
+## Skills and Certifications
 
-* Programming and Tools: Excel (Advanced), Python (Pandas, NumPy, Matplotlib), and SQL.
+* Programming and Tools: Python, R, Excel
 
-* Core Competencies: Analytical Problem Solving, Mathematical Logic, Quantitative Research, Technical Writing.
-
-## Certifications
-
-* NISM Series XV: Research Analyst Certification – National Institute of Securities Markets (SEBI) |  Passed: June 2026
-
+* Certifications: NISM Series XV: Research Analyst Certification (SEBI)
+  
 ## Projects
 
 ### Portfolio Performance and Risk Analysis Dashboard

@@ -6,7 +6,7 @@ Technical Stack & Core Competencies:
 • Quantitative & Data Analytics: Python, R, Excel  
 • Financial Modeling & Tools: Financial Valuation, Economic Data Processing
 
-Current Focus:
+# Current Focus:
 Actively seeking entry-level analyst opportunities, long-term off-cycle internships, or research desk roles in Economic Research, FICC/Markets, Equity Analysis, or Quantitative Analytics where I can leverage my knowledge to support trade analysis, asset allocation, and market insights.
 ✉️ Contact: vaibhavstar356@gmail.com | Open to opportunities across Delhi NCR, Mumbai, or Remote.
 

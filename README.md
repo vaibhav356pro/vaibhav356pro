@@ -24,7 +24,7 @@ Aggregate: 91.6% (Mathematics: 95/100) | 2020
 ## Skills and Certifications
 
 * ### Certifications:
- NISM Series XV: Research Analyst Certification (SEBI Framework)
+NISM Series XV: Research Analyst Certification (SEBI Framework)
 
 * ### Programming & Data Analytics:
   Python (pandas, numpy, statsmodels), R

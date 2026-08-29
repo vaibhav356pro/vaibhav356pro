@@ -1,7 +1,8 @@
 ## About
 
 B.Sc. (Hons) Mathematics Graduate from the University of Delhi and NISM Series XV Certified Research Analyst (SEBI Framework), specializing in quantitative financial analysis, market microstructures, and financial modeling.
-I combine a rigorous mathematical foundation—grounded in linear algebra, multivariable calculus, probability, differential equations and mathematical finance—with a deep practical interest in financial markets. My primary analytical focus spans yield curve dynamics, central bank interest rate policies, and cross-asset research across fixed income, FX, and equity markets.
+
+I combine a rigorous mathematical foundation—grounded in linear algebra, multivariable calculus, probability, differential equations and mathematical finance—with a deep practical interest in financial markets. My primary analytical focus spans yield curve dynamics, interest rate policies and research across fixed income and equity markets.
 Technical Stack & Core Competencies:  
 • Quantitative & Data Analytics: Python, R, Excel  
 • Financial Modeling & Tools: Financial Valuation, Economic Data Processing
